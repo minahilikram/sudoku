@@ -7,13 +7,13 @@
 ## Install
 
 ```sh
-$ git clone https://github.com/minahilikram/sudoku-ada
+$ git clone https://github.com/minahilikram/sudoku
 ```
 
 ## Usage
 
 ```sh
-$ cd sudoku-ada/
+$ cd sudoku/
 $ make
 $ make run
 ```
