@@ -21,7 +21,7 @@ $ make run
 ## Limitations
 
 - Does not solve the puzzle completely
-- Does not ask user for an input file of the puzzle, to do this; change [docs/Sudoku.dat](https://github.com/minahilikram/sudoku/blob/master/docs/Sudoku.dat) to another the same name
+- Does not ask user for an input file of the puzzle, to do this; change [docs/Sudoku.dat](https://github.com/minahilikram/sudoku/blob/master/docs/Sudoku.dat) to another with the same name
 - Does not output solution to file
 
 ### References
