@@ -1,6 +1,6 @@
 # sudoku-ada
 
-[Sudoku](https://en.wikipedia.org/wiki/Sudoku) a backtracking implementation on Ada Algorithms.
+[Sudoku](https://en.wikipedia.org/wiki/Sudoku) a backtracking implementation using Ada Algorithms.
 
 > Sudoku backtracking algorithm is one that iterates all the possible solutions for the given sudoku. If the solutions assigned do not lead to the solution of Sudoku, the algorithm discards the solutions and rollbacks to the original solutions and retries again and hence the name backtracking.
 
