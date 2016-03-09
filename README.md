@@ -2,7 +2,7 @@
 
 [Sudoku](https://en.wikipedia.org/wiki/Sudoku) a backtracking implementation on Ada Algorithms.
 
-> Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid contains all of the digits from 1 to 9. The puzzle setter provides a partially completed grid, which for a well-posed puzzle has a unique solution.
+> Sudoku backtracking algorithm is one that iterates all the possible solutions for the given sudoku. If the solutions assigned do not lead to the solution of Sudoku, the algorithm discards the solutions and rollbacks to the original solutions and retries again and hence the name backtracking.
 
 ## Install
 
