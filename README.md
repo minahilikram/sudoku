@@ -1,4 +1,4 @@
-# sudoku-ada
+# sudoku
 
 [Sudoku](https://en.wikipedia.org/wiki/Sudoku) a backtracking implementation using Ada Algorithms.
 
